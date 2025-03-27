@@ -7,6 +7,7 @@
 
 ---
 <i>
+  
 - 🔭 I’m currently working on **Blossom Mobile App**
 
 - 🌱 I’m currently learning **CI/CD, Frontend develop, UI/UX, Python**
