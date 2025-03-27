@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kmgdtharapathi&label=Profile%20views&color=0e75b6&style=flat" alt="kmgdtharapathi" /> </p>
 
 ---
-
+<i>
 - 🔭 I’m currently working on **Blossom Mobile App**
 
 - 🌱 I’m currently learning **CI/CD, Frontend develop, UI/UX, Python**
@@ -14,6 +14,8 @@
 - 📫 How to reach me **tharapathi2000@gmail.com**
 
 - ⚡ Fun fact **Call me as Dassi**
+</i>
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
